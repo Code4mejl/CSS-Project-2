@@ -44,7 +44,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/sidebar-menu-project.git
+git clone https://github.com/Code4mejl/CSS-Project-2.git
 Open index.html in your browser.
 
 Done! Toggle the menu using the hamburger icon on the top left.
